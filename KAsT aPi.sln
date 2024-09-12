@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAsT aPi", "KAsT aPi.csproj", "{55476C2B-2224-4D25-AFB8-E291EABCFBE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55476C2B-2224-4D25-AFB8-E291EABCFBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55476C2B-2224-4D25-AFB8-E291EABCFBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55476C2B-2224-4D25-AFB8-E291EABCFBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55476C2B-2224-4D25-AFB8-E291EABCFBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F59FF89-0D2D-4438-A3D1-2850045FCADE}
+	EndGlobalSection
+EndGlobal
