@@ -6,7 +6,7 @@ Kastik.project
   > git init </br>
   > git add . </br>
   > git commit -m "Hello" </br>
-  > git remote add origin "https://github.com/L1ch1v1L/0301w1.git" </br>
+  > git remote add origin "https://github.com/SkrillXXx/kastik" </br>
   > git push origin main </br>
 ## Описание возможности Git
   >Git — это распределенная система управления версиями, которая означает, что локальный клон проекта — это полный репозиторий управления версиями. Полнофункциональные локальные репозитории упрощают работу как в автономном, так и в удаленном режиме.
