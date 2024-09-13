@@ -7,6 +7,7 @@ Kastik.project
   git init 
   git add . 
   git commit -m "Hello"
+  git branch -M main
   git remote add origin "https://github.com/SkrillXXx/kastik" 
   git push origin main
 ```
